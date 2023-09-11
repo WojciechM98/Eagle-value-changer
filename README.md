@@ -1,5 +1,4 @@
 # Eagle-value-changer (EVC)
-<hr/>
 A script that automates batch changes to Eagle.sch files.
 
 ## How does ECV works
